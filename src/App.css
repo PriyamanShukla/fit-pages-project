@@ -1,0 +1,11 @@
+.card-body{
+    background-color: #212529;
+    color:#fff
+}
+tbody{
+font-size: small;
+font-weight: lighter;
+}
+.jumbotron{
+    width: 60vw;
+}
